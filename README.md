@@ -4,8 +4,8 @@ This code can be used to reproduce the numerical experiments from the paper [Inv
 
 In order to reproduce our numerical experiments 
 - Install the following two repositories:
--- https://github.com/tum-vision/prost
--- https://github.com/tum-vision/sublabel_relax/cvpr2016
+	- https://github.com/tum-vision/prost
+	- https://github.com/tum-vision/sublabel_relax/cvpr2016
 - Run ``matlab.main.m``.
 
 In order to look at our results run either ``results/visualize_ROF.m`` and ``results/visualize_stereo.m``
