@@ -12,7 +12,8 @@ In order to look at our results run either ``results/visualize_ROF.m`` or ``resu
 
 # Publications
 
-- **Inverse Scale Space Iterations for Non-convex Variational Problems Using Functional Lifting** (Bednarski, Danielle and Lellmann, Jan), Scale Space and Variational Methods in Computer Vision (SSVM), 2021. [Link](https://arxiv.org/abs/2105.02622)
-Best Student Paper Award.
+- **Inverse Scale Space Iterations for Non-convex Variational Problems Using Functional Lifting** (Bednarski, Danielle and Lellmann, Jan), Scale Space and Variational Methods in Computer Vision (SSVM), 2021. 
+
+Best Student Paper Award [(Link)](https://arxiv.org/abs/2105.02622)
 
 - **Inverse Scale Space Iterations for Non-Convex Variational Problems: The Continuous and Discrete Case** (Bednarski, Danielle and Lellmann, Jan), submitted for JMIV special issue. 
