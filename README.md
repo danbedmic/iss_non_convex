@@ -1,10 +1,18 @@
 # About
 
-Code for results presented in "Inverse Scale Space Iterations for Non-Convex Variational Problems: The Continuous and Discrete Case". 
+This code can be used to reproduce the numerical experiments from the paper [Inverse Scale Space Iterations for Non-Convex Variational Problems: The Continuous and Discrete Case](https://arxiv.org/abs/2203.10865).
 
-In order to run the code, the following repositories need to be installed:
-https://github.com/tum-vision/prost
-https://github.com/tum-vision/sublabel_relax/cvpr2016
+In order to reproduce our numerical experiments 
+- Install the following two repositories:
+-- https://github.com/tum-vision/prost
+-- https://github.com/tum-vision/sublabel_relax/cvpr2016
+- Run ``matlab.main.m``.
 
+In order to look at our results run either ``results/visualize_ROF.m`` and ``results/visualize_stereo.m``
 
-You can either choose to rerun our experiments starting at main.m or visualize our results in results/visualize_***.m
+# Publications
+
+- **Inverse Scale Space Iterations for Non-convex Variational Problems Using Functional Lifting** (Bednarski, Danielle and Lellmann, Jan), Scale Space and Variational Methods in Computer Vision (SSVM), 2021. [Link](https://arxiv.org/abs/2105.02622)
+Best Student Paper Award.
+
+- **Inverse Scale Space Iterations for Non-Convex Variational Problems: The Continuous and Discrete Case** (Bednarski, Danielle and Lellmann, Jan), submitted for JMIV special issue. 
